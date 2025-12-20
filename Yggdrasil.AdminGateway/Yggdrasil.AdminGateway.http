@@ -1,0 +1,6 @@
+@Yggdrasil.AdminGateway_HostAddress = http://localhost:5275
+
+GET {{Yggdrasil.AdminGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
